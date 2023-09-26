@@ -1,0 +1,5 @@
+Bước 1: Attack CSDL "QLThuCung" vào SQL Server
+Bước 2: Mở dự án "QuanLyTHUCUNG" vào file "App.config"
+Bước 3: Thai đổi chuổi kết nối "connectionString" có name là "QLThuCungDBContext1" thành chuổi kết nối đến csdl "QLThuCung" trên máy 
+Bước 4: Chuột phải vào dự án QuanLyTHUCUNG -> Rebuild
+Bước 5: Chọn Start trên Menubar

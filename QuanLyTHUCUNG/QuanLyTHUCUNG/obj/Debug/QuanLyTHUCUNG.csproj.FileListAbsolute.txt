@@ -1,0 +1,547 @@
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.exe.config
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.exe
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.pdb
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Guna.UI2.dll
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.AssemblyReference.cache
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.Form1.resources
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.Properties.Resources.resources
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.GenerateResource.cache
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.CoreCompileInputs.cache
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.CopyComplete
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.exe
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.pdb
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmPhieuGui.resources
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmTrangChu.resources
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDatCho.resources
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmChuong.resources
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmThuKyGui.resources
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmNhatKyNuoi.resources
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDichVu.resources
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmHinhThuc.resources
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmKhachHang.resources
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmNhanVien.resources
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmchitietPhieuGui.resources
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmHoaDon.resources
+C:\Users\Thang\source\repos\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDangNhap.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.exe.config
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.exe
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.pdb
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.AssemblyReference.cache
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.Form1.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmchitietPhieuGui.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmChuong.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDangNhap.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDatCho.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDichVu.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmHinhThuc.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmHoaDon.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmKhachHang.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmNhanVien.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmNhatKyNuoi.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmPhieuGui.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmThuKyGui.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmTrangChu.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.Properties.Resources.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.GenerateResource.cache
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.CoreCompileInputs.cache
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.CopyComplete
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.exe
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.pdb
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.xml
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Guna.UI2.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmInPhieuGui.resources
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\RdlCompile.cache
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\RdlCompile.compiled
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EnvDTE.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\stdole.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.MSXML.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Documents\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.exe.config
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.exe
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.pdb
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.Shared.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.SqlServer.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Guna.UI2.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ShockwaveFlashObjects.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EnvDTE.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\stdole.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.MSXML.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.xml
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.SqlServer.xml
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.AssemblyReference.cache
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.Form1.resources
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmchitietPhieuGui.resources
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmChuong.resources
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDangNhap.resources
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDatCho.resources
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDichVu.resources
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmHinhThuc.resources
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmHoaDon.resources
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmInPhieuGui.resources
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmKhachHang.resources
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmNhanVien.resources
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmNhatKyNuoi.resources
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmPhieuGui.resources
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmThuKyGui.resources
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmTrangChu.resources
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.Properties.Resources.resources
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.GenerateResource.cache
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\RdlCompile.cache
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\RdlCompile.compiled
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.CoreCompileInputs.cache
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.CopyComplete
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.exe
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.pdb
+D:\Zalo Received Files\QuanLyTHUCUNG\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmInNhatKy.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.exe.config
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.exe
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.pdb
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Guna.UI2.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EnvDTE.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\stdole.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.MSXML.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.xml
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.AssemblyReference.cache
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.Form1.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmchitietPhieuGui.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmChuong.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDangNhap.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDatCho.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDichVu.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmHinhThuc.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmHoaDon.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmInNhatKy.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmInPhieuGui.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmKhachHang.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmNhanVien.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmNhatKyNuoi.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmPhieuGui.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmThuKyGui.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmTrangChu.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.Properties.Resources.resources
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.GenerateResource.cache
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\RdlCompile.cache
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\RdlCompile.compiled
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.CoreCompileInputs.cache
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.CopyComplete
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.exe
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.pdb
+C:\Users\levan\Desktop\Đồ án K7-K8\QuanLyTHUCUNG (1)\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmTrangChuTC.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.Form1.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmchitietPhieuGui.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmChuong.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDangNhap.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDatCho.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDichVu.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmHinhThuc.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmHoaDon.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmHome.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmInNhatKy.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmInPhieuGui.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmKhachHang.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmNhanVien.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmNhatKyNuoi.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmPhieuGui.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmThuKyGui.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmTrangChu.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmTrangChuTC.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.Loading.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.Properties.Resources.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.GenerateResource.cache
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.CoreCompileInputs.cache
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.exe.config
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.exe
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.pdb
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.SqlServer.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Guna.UI2.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EnvDTE.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\stdole.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.MSXML.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.xml
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.SqlServer.xml
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.exe
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.pdb
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\RdlCompile.cache
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\RdlCompile.compiled
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmThongKe.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Guna.Charts.WinForms.dll
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.CuttomChuong.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.CuttomControl.ChuongControl.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmInHoaDonChuong.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmHomeIndex.resources
+D:\ThucTap\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.CopyComplete
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.exe.config
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.exe
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\QuanLyTHUCUNG.pdb
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.SqlServer.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Guna.Charts.WinForms.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Guna.UI2.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EnvDTE.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\stdole.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\Microsoft.MSXML.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.xml
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\EntityFramework.SqlServer.xml
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.CuttomChuong.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.CuttomControl.ChuongControl.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmchitietPhieuGui.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmChuong.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDangNhap.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDatCho.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmDichVu.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmHinhThuc.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmHoaDon.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmHome.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmHomeIndex.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmInHoaDonChuong.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmInNhatKy.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmInPhieuGui.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmKhachHang.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmNhanVien.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmNhatKyNuoi.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmPhieuGui.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmThongKe.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.frmThuKyGui.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.Loading.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.Properties.Resources.resources
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.GenerateResource.cache
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\RdlCompile.cache
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\RdlCompile.compiled
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.CoreCompileInputs.cache
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.exe
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.pdb
+D:\ThucTap\TRANDUYKHANH-190818\QuanLyTHUCUNG\QuanLyTHUCUNG\obj\Debug\QuanLyTHUCUNG.csproj.AssemblyReference.cache
